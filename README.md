@@ -1,5 +1,3 @@
--- 🔥 Script para farm na Ilha do Vulcão + V4 Draco Trial
-pcall(function()
 
 -- ✅ Anti-AFK
 game:GetService("Players").LocalPlayer.Idled:connect(function()
